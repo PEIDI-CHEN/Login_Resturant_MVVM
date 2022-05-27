@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{F607D963-B20A-4B5E-8A03-B0423A311F10}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Peidi.MvvmLesson.ViewModel</RootNamespace>
+    <AssemblyName>Peidi.MvvmLesson.ViewModel</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>..\output\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="LiveCharts, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\LiveCharts.0.9.7\lib\net45\LiveCharts.dll</HintPath>
+    </Reference>
+    <Reference Include="LiveCharts.Wpf, Version=0.9.7.0, Culture=neutral, PublicKeyToken=0bc1f845d1ebb8df, processorArchitecture=MSIL">
+      <SpecificVersion>False</SpecificVersion>
+      <HintPath>..\packages\LiveCharts.Wpf.0.9.7\lib\net45\LiveCharts.Wpf.dll</HintPath>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xaml" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DashboardPageViewModel.cs" />
+    <Compile Include="LoginViewModel.cs" />
+    <Compile Include="MainWindowViewModel.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Peidi.MvvmLesson.Assets\Peidi.MvvmLesson.Assets.csproj">
+      <Project>{0a045cd3-9a56-4e52-aec9-6fc0a61acc25}</Project>
+      <Name>Peidi.MvvmLesson.Assets</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Peidi.MvvmLesson.BLL\Peidi.MvvmLesson.BLL.csproj">
+      <Project>{51677a92-3482-4353-87bb-9460407711fc}</Project>
+      <Name>Peidi.MvvmLesson.BLL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Peidi.MvvmLesson.Common\Peidi.MvvmLesson.Common.csproj">
+      <Project>{1aacdfe0-9f96-4808-a10c-3625ad0df2a9}</Project>
+      <Name>Peidi.MvvmLesson.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Peidi.MvvmLesson.DAL\Peidi.MvvmLesson.DAL.csproj">
+      <Project>{b3b5a54f-d16a-48b3-b67b-17a7f48bc700}</Project>
+      <Name>Peidi.MvvmLesson.DAL</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Peidi.MvvmLesson.Model\Peidi.MvvmLesson.Model.csproj">
+      <Project>{fffba572-a68d-4cb4-88b0-3650735a31b2}</Project>
+      <Name>Peidi.MvvmLesson.Model</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>
