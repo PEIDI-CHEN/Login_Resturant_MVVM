@@ -1,0 +1,26 @@
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\bin\Debug\Zhaoxi.MvvmLesson.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\bin\Debug\Zhaoxi.MvvmLesson.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.csprojAssemblyReference.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls_MarkupCompile.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls_MarkupCompile.lref
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.g.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.Properties.Resources.resources
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.csproj.GenerateResource.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.csproj.CoreCompileInputs.cache
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.dll
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.pdb
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\CircularProgressBar.g.cs
+D:\Zhaoxi.EDU\Jovan-Lesson\2020 WPF进阶+上位机实战\VIP\20201214WPF上位机Course27MVVM基础架构实战\src\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\CircularProgressBar.baml
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\bin\Debug\Zhaoxi.MvvmLesson.Controls.dll
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\bin\Debug\Zhaoxi.MvvmLesson.Controls.pdb
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.csproj.AssemblyReference.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\CircularProgressBar.g.cs
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls_MarkupCompile.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls_MarkupCompile.lref
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\CircularProgressBar.baml
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.g.resources
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.Properties.Resources.resources
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.csproj.GenerateResource.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.csproj.CoreCompileInputs.cache
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.dll
+D:\陈沛迪的个人资料\WPF+上位机高薪VIP第一期\WPF+上位机高薪VIP第一期\20201214WPF上位机Course27MVVM基础架构实战\20201214WPF上位机Course27MVVM基础架构实战\Zhaoxi.MvvmLesson\Zhaoxi.MvvmLesson.Controls\obj\Debug\Zhaoxi.MvvmLesson.Controls.pdb
