@@ -1,0 +1,10 @@
+﻿<Application x:Class="Peidi.MvvmLesson.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Peidi.MvvmLesson"
+             xmlns:sys="clr-namespace:System;assembly=mscorlib"
+             ShutdownMode="OnExplicitShutdown">
+    <Application.Resources>
+        <FontFamily x:Key="IconFontFamily">pack://application:,,,/Peidi.MvvmLesson.Assets;component/Fonts/#iconfont</FontFamily>
+    </Application.Resources>
+</Application>
